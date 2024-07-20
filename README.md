@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NEXT JS Dummy Food Recipe Website
 
-## Getting Started
+This is my first project of NextJS. I have been learning NextJS from **[Sangam Mukherjee](https://www.youtube.com/@sangammukherjee)** Youtube Channel.
 
-First, run the development server:
+This is this first project and I have also followed him.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project I have created without help after completing it once by seeing it.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Pages
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Home
+- Recipe List
+- Recipe Details Page
+- Not Found Page
+- Loading Page
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## API
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+I am using a test api or a dummy json api for fetching recipe and it's details
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**API Url: [DummyJSON](https://dummyjson.com/)**
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+:fire: Let's make something together :fire:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**Created with :heart: by [Muzammil](https://github.com/azurecoders/)**
